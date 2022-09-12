@@ -1,0 +1,5 @@
+## Interface: 90200
+## Title: Fast Gather
+## Author: Teldrae
+## Version: 1.0
+main.lua

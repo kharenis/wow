@@ -1,0 +1,5 @@
+local LSM = LibStub("LibSharedMedia-3.0")
+LSM:Register("font", "AvantGarde Bold.TTF", [[Interface\AddOns\AvantGardeFont\Fonts\AvantGarde\AvantGarde Bold.TTF]], 255)
+LSM:Register("font", "AvantGarde Gothic Medium", [[Interface\AddOns\AvantGardeFont\Fonts\AvantGarde\AvantGarde Gothic Medium.ttf]], 255)
+LSM:Register("font", "AvantGarde Italic.TTF", [[Interface\AddOns\AvantGardeFont\Fonts\AvantGarde\AvantGarde Italic.TTF]], 255)
+LSM:Register("font", "AvantGarde.TTF", [[Interface\AddOns\AvantGardeFont\Fonts\AvantGarde\AvantGarde.TTF]], 255)
