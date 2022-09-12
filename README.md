@@ -1,1 +1,1 @@
-# wow
+# WoW Addons & WeakAuras
